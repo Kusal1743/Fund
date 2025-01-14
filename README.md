@@ -1,4 +1,4 @@
-![2](https://github.com/user-attachments/assets/7b0353a0-638f-4c67-9488-334019f68a4b)# Fundraising Website Admin Panel
+# Fundraising Website Admin Panel
 
 This repository contains the source code for the admin panel of the fundraising website. The admin panel is built using PHP and is designed to manage the fundraising platform efficiently.
 
