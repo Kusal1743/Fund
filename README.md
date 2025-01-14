@@ -1,11 +1,13 @@
-# Fundraising Website Admin Panel
+![1](https://github.com/user-attachments/assets/68e515f7-ffe6-479f-8197-053af41fcdbb)# Fundraising Website Admin Panel
 
 This repository contains the source code for the admin panel of the fundraising website. The admin panel is built using PHP and is designed to manage the fundraising platform efficiently.
 
 ## Features
 - Manage user accounts and profiles
-- Approve or reject fundraising campaigns
-- View and track donations
+  ![1](https://github.com/user-attachments/assets/86ab4c2c-1755-4c40-9a47-500ade908e6b)
+
+- Manage campaigns
+- Analytics donations
 - Generate reports on fundraising activities
 
 ## Installation
