@@ -13,8 +13,9 @@ This repository contains the source code for the admin panel of the fundraising 
    ```bash
    git clone https://github.com/Kusal1743/Fund.git
 2. Navigate to the project directory:
+   ```bash
    cd Fund
-3. Set up your local development environment:
+4. Set up your local development environment:
     Ensure you have PHP installed.
     Set up a local web server (e.g., XAMPP or WAMP).
     Import the database using the provided SQL file (database.mysql).
